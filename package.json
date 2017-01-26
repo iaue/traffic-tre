@@ -1,0 +1,23 @@
+{
+  "name": "traffic-tre",
+  "version": "1.0.0",
+  "description": "Tampere traffic information",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iaue/traffic-tre.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iaue/traffic-tre/issues"
+  },
+  "homepage": "https://github.com/iaue/traffic-tre#readme",
+  "dependencies": {
+    "leaflet": "^1.0.3",
+    "leaflet.heat": "^0.2.0"
+  }
+}
